@@ -1,3 +1,3 @@
-# char_to_ascii
+# char to ascii
 
 - Simple program in cpp, which converting char to ascii :)
